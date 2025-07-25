@@ -11,7 +11,10 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
+    
+  - title: "Things I Make"
+    url: /hobbies/
+    
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
 
