@@ -1,3 +1,4 @@
+
 ---
 title: "Creative Work"
 permalink: /hobbies/
@@ -5,70 +6,100 @@ layout: single
 author_profile: true
 ---
 
+<style>
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+.video-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #fff;
+}
+
+.video-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.video-thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.video-details {
+  padding: 10px 15px;
+}
+
+.video-details h4 {
+  margin: 0 0 5px 0;
+  font-size: 16px;
+}
+
+.video-details p {
+  font-size: 14px;
+  color: #555;
+}
+</style>
+
 ## 🎥 Video Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">🎬 Video</div>
-      <img src='https://img.youtube.com/vi/jUUbEcVFshs/maxresdefault.jpg' alt="ICERIE 2025 Inauguration" width="100%">
+<div class="video-grid">
+
+<div class="video-card">
+  <a href="https://youtu.be/jUUbEcVFshs" target="_blank">
+    <div class="video-thumb">
+      <img src="https://img.youtube.com/vi/jUUbEcVFshs/hqdefault.jpg" alt="ICERIE 2025 Inauguration">
     </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[ICERIE 2025 Inauguration Video](https://youtu.be/jUUbEcVFshs)  
-**Concept, edit, production and voiceover by me.**  
-Made for the inauguration of the 8th International Conference on Engineering Research, Innovation and Education (ICERIE 2025).
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">🎬 Video</div>
-      <img src='https://img.youtube.com/vi/HtsAU10E8yY/maxresdefault.jpg' alt="Quiet Summer Morning" width="100%">
+    <div class="video-details">
+      <h4>🎬 ICERIE 2025 Inauguration Video</h4>
+      <p>Concept, edit, production and voiceover by me. Created for the 8th ICERIE conference.</p>
     </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[a quiet summer morning at SUST](https://youtu.be/HtsAU10E8yY)  
-A personal visual journal filmed while walking to class. 
-I was late that day, but the morning was unforgettable.
-
-</div>
+  </a>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">🎬 Music</div>
-      <img src='https://img.youtube.com/vi/_GATAdcGc-w/maxresdefault.jpg' alt="Anondoloke Cover" width="100%">
+<div class="video-card">
+  <a href="https://youtu.be/HtsAU10E8yY" target="_blank">
+    <div class="video-thumb">
+      <img src="https://img.youtube.com/vi/HtsAU10E8yY/hqdefault.jpg" alt="Summer Morning at SUST">
     </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[Instrumental cover of Anondoloke](https://youtu.be/_GATAdcGc-w)  
-Instrumental rendition of a Tagore classic using flute and violin.  
-Edit and production by Tomal bhai and me.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">🎬 Animation</div>
-      <img src='https://img.youtube.com/vi/utSZn2ahLc0/maxresdefault.jpg' alt="Ami-Ke Promo" width="100%">
+    <div class="video-details">
+      <h4>🎬 A Quiet Summer Morning at SUST</h4>
+      <p>A personal walk to class on a beautiful morning. Late to class — but worth it.</p>
     </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[Animated Promo: Ami-Ke](https://youtu.be/utSZn2ahLc0)  
-Created this for promoting the Ami-ke event by AAJ Muktomancho.  
-Edit and production by Tomal bhai and me. Learned After Effects from scratch for this video.
-
+  </a>
 </div>
+
+<div class="video-card">
+  <a href="https://youtu.be/_GATAdcGc-w" target="_blank">
+    <div class="video-thumb">
+      <img src="https://img.youtube.com/vi/_GATAdcGc-w/hqdefault.jpg" alt="Anondoloke Instrumental Cover">
+    </div>
+    <div class="video-details">
+      <h4>🎼 Instrumental Cover of Anondoloke</h4>
+      <p>Flute and violin instrumental of Tagore’s classic. Edited with Tomal bhai.</p>
+    </div>
+  </a>
+</div>
+
+<div class="video-card">
+  <a href="https://youtu.be/utSZn2ahLc0" target="_blank">
+    <div class="video-thumb">
+      <img src="https://img.youtube.com/vi/utSZn2ahLc0/hqdefault.jpg" alt="Ami-Ke Promo Animation">
+    </div>
+    <div class="video-details">
+      <h4>🎬 Animated Promo: Ami-Ke</h4>
+      <p>Event promo video for AAJ Muktomancho. Learned After Effects just for this project.</p>
+    </div>
+  </a>
+</div>
+
 </div>
 
 👉 **Check out more on my [YouTube channel](https://www.youtube.com/@raiedahmednishat8883/)!** 🎬✨
@@ -77,7 +108,7 @@ Edit and production by Tomal bhai and me. Learned After Effects from scratch for
 
 ## 🎨 Graphic Design Projects
 
-*Coming soon — event posters, promotional content, and branding work from SUST and beyond.*
+*Coming soon — event posters, promo designs, and branding work from SUST and beyond.*
 
 ---
 
