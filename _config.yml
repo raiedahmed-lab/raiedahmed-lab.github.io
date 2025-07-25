@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Civil Engineering graduate from SUST. Passionate about geotechnical engineering, machine learning and academic research."
+  name             : "Raied Ahmed Nishat"
+  avatar           : "images/headshot.jpg"
+  bio              : ""
   location         : "Sylhet, Bangladesh"
   employer         : "SUST, Bangladesh"
   pubmed           : 
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "raiedahmednishat8883"
+  youtube          : "@raiedahmednishat8883"
   wikipedia        :
 
 
