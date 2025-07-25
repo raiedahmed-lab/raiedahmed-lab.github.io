@@ -47,19 +47,98 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TJRRI 2025</div><img src='images/paper1.png' alt="Brahmaputra-Jamuna Study" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Investigating the Trends of Rainfall and Discharge along the Brahmaputra-Jamuna River System](https://rri.portal.gov.bd/sites/default/files/files/rri.portal.gov.bd/page/4787fdda_a3b5_4185_806e_5f5480c8edbc/2025-06-06-15-43-90cf05b8b611bbd58f562f6b8e43b366.pdf#page=83)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Raied Ahmed Nishat**, Mahfujur Rahman Joy
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Technical Journal of River Research Institute, 17(1), 2025*  
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-9zK80AAAAJ&citation_for_view=f-9zK80AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='f-9zK80AAAAJ:u-x6o8ySG0sC'></span></strong>
+- A comprehensive hydroclimatic trend analysis using visual and statistical tools to assess seasonal discharge variability under changing climate conditions.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">DCE (Under Review)</div>
+      <img src='images/paper-soil-review.PNG' alt="Soil ML Review" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Machine Learning in Soil Strength Prediction: A Review](#)  
+**Raied Ahmed Nishat**, Fahmida Rahman  
+*Under Review at Discover Civil Engineering (Springer)*  
+- A critical review exploring classical and modern machine learning approaches for predicting strength parameters of soils, highlighting trends, challenges and future directions.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">HESS (Under Review)</div>
+      <img src='images/paper-ganges-ml.png' alt="Ganges Water ML" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Hydroclimatic Trend Analysis and Machine Learning-Based Water Level Prediction for the Ganges (Padma) River Basin](#)  
+Mahfujur Rahman Joy, **Raied Ahmed Nishat**  
+*Under Review at Hydrology and Earth System Sciences (HESS)*  
+- Trend analysis of rainfall, discharge and temperature with machine learning forecasting models for water level prediction in the Ganges basin.
+
+</div>
+</div>
+
+# 📝 Conference Papers
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCEI 2025</div>
+      <img src='images/paper-ucsprediction.png' alt="UCS Prediction Model" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Prediction of Soil Unconfined Compressive Strength with Decision Tree-Based Hybrid Machine Learning Model](#)  
+**Raied Ahmed Nishat**, Fahmida Rahman, Nur Md. Robiul Hoque, Md. Nazmus Islam Rafi, Dr. Shriful Islam  
+*Accepted at ICCEI 2025 – RUET*  
+- Proposes a hybrid model combining Decision Trees with metaheuristic optimization to predict UCS of soils, benchmarked against traditional regressors.
+
+</div>
+</div>
+
+# 🔬 Ongoing Research
+
+- **A Transfer Learning Approach for Soil Strength Prediction**  
+  *Raied Ahmed Nishat, Fahmida Rahman*  
+  *Supervisors: Dr. Shriful Islam, Nur Md. Robiul Hoque*  
+  *Final phase of undergraduate thesis*  
+  - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets. Currently in final analysis and manuscript drafting.
+
+- **Seismic Risk and Resilience Analysis of Chittagong**  
+  *Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat*  
+  *Manuscript in preparation*  
+  - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
+
+- **Kaolin Clay Stabilization using Lime and Alkali-Activated Slag**  
+  *Undergraduate Thesis by Arnob Sutradhar*  
+  *Supervisor: Dr. Shriful Islam*  
+  - Explores the chemical stabilization of kaolin using lime and NaOH-activated steel slag.  
+  - Contributions: Planning, analytical support, result documentation, and manuscript structuring.
+
+- **Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber**  
+  *Undergraduate Thesis by Mohsina Faiza Naba*  
+  *Supervisor: Dr. Shriful Islam*  
+  - Investigates mechanical enhancement of Sunamganj clay through combined stabilization using lime, fly ash, and polyester fiber.  
+  - Contributions: Research planning, data interpretation, documentation, and manuscript review.
+
 
 # 🎖 Honors and Awards
 - *2023.12*– Semifinalist, Hult Prize at SUST  
