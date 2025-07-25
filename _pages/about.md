@@ -117,24 +117,24 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 # 🔬 Ongoing Research
 
 1. **A Transfer Learning Approach for Soil Strength Prediction**  
-  *Raied Ahmed Nishat, Fahmida Rahman*  
+  Raied Ahmed Nishat, Fahmida Rahman  
   *Supervisors: Dr. Shriful Islam, Nur Md. Robiul Hoque*  
   *Final phase of undergraduate thesis*  
   - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets. Currently in final analysis and manuscript drafting.
 
 2. **Seismic Risk and Resilience Analysis of Chittagong**  
-  *Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat*  
+  Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat
   *Manuscript in preparation*  
   - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
 
 3. **Kaolin Clay Stabilization using Lime and Alkali-Activated Slag**  
-  *Undergraduate Thesis by Arnob Sutradhar*  
+  Undergraduate Thesis by Arnob Sutradhar
   *Supervisor: Dr. Shriful Islam*  
   - Explores the chemical stabilization of kaolin using lime and NaOH-activated steel slag.  
   - Contributions: Planning, analytical support, result documentation, and manuscript structuring.
 
 4. **Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber**  
-  *Undergraduate Thesis by Mohsina Faiza Naba*  
+  Undergraduate Thesis by Mohsina Faiza Naba  
   *Supervisor: Dr. Shriful Islam*  
   - Investigates mechanical enhancement of Sunamganj clay through combined stabilization using lime, fly ash, and polyester fiber.  
   - Contributions: Research planning, data interpretation, documentation, and manuscript review.
