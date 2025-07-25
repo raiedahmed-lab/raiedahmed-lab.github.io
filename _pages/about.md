@@ -116,24 +116,24 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 # 🔬 Ongoing Research
 
-- **A Transfer Learning Approach for Soil Strength Prediction**  
+1. **A Transfer Learning Approach for Soil Strength Prediction**  
   *Raied Ahmed Nishat, Fahmida Rahman*  
   *Supervisors: Dr. Shriful Islam, Nur Md. Robiul Hoque*  
   *Final phase of undergraduate thesis*  
   - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets. Currently in final analysis and manuscript drafting.
 
-- **Seismic Risk and Resilience Analysis of Chittagong**  
+2. **Seismic Risk and Resilience Analysis of Chittagong**  
   *Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat*  
   *Manuscript in preparation*  
   - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
 
-- **Kaolin Clay Stabilization using Lime and Alkali-Activated Slag**  
+3. **Kaolin Clay Stabilization using Lime and Alkali-Activated Slag**  
   *Undergraduate Thesis by Arnob Sutradhar*  
   *Supervisor: Dr. Shriful Islam*  
   - Explores the chemical stabilization of kaolin using lime and NaOH-activated steel slag.  
   - Contributions: Planning, analytical support, result documentation, and manuscript structuring.
 
-- **Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber**  
+4. **Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber**  
   *Undergraduate Thesis by Mohsina Faiza Naba*  
   *Supervisor: Dr. Shriful Islam*  
   - Investigates mechanical enhancement of Sunamganj clay through combined stabilization using lime, fly ash, and polyester fiber.  
@@ -149,10 +149,6 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 - *2025*: B.Sc., Civil and Environmental Engineering, SUST  
 - *2019*: HSC (Science), Al Amin Academy, Chandpur  
 - *2017*: SSC (Science), Hasan Ali Govt. High School, Chandpur 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *Apr 2025*, CodeAlpha  
