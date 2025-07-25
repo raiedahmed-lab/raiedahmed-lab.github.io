@@ -2,7 +2,10 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
+    
+  - title: "CV"
+    url: /assets/resume.pdf  
+    
   - title: "News"
     url: "/#-news"
 
