@@ -40,6 +40,7 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 # 🔥 News
 
+- 📢 2025.08 – Submitted abstract on Foundation Settlement Prediction with TabPFN to ICCESD 2026, KUET  
 - 📢 2025.07 – Submitted full paper on DT-Hybrid based UCS prediction to ICCEI 2025, RUET  
 - 📢 2025.07 – Finished writing undergraduate thesis paper on transfer learning application in geotechnical engineering  
 - 📚 2025.05 – Started working on seismic vulnerability study of Chittagong  
@@ -114,6 +115,22 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCESD 2026</div>
+      <img src='images/paper-settlement.png' alt="Settlement Prediction Model" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction](#)  
+Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni 
+*Submitted to ICCESD 2026 – KUET*  
+- Introduced TabPFN to the field of geotechnical engineering. Shallow foundation settlement prediction performance using TabPFN achieved higher predictive performance when compared to baseline models in literature.
+
+</div>
+</div>
 # 🔬 Ongoing Research
 
 1. **A Transfer Learning Approach for Soil Strength Prediction**  
