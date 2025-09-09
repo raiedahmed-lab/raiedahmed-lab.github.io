@@ -48,6 +48,19 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GSF 2025</div><img src='images/paper-tluss.png' alt="TL for USS Prediction" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Instance-Based Transfer Learning for Cross-Regional Prediction of Undrained Shear Strength of Soils](#)  
+
+**Raied Ahmed Nishat**, Fahmida Rahman, Nur Md. Robiul Hoque, Dr. Shriful Islam  
+
+*Geoscience Frontiers, 2025 (Submitted)*  
+
+- Applies instance based transfer learning techniques to to predict Undrained Shear Strength using cross-regional datasets.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TJRRI 2025</div><img src='images/paper1.png' alt="Brahmaputra-Jamuna Study" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -136,8 +149,8 @@ Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni
 1. **A Transfer Learning Approach for Soil Strength Prediction**  
   Raied Ahmed Nishat, Fahmida Rahman  
   *Supervisors: Dr. Shriful Islam, Nur Md. Robiul Hoque*  
-  *Final phase of undergraduate thesis*  
-  - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets. Currently in final analysis and manuscript drafting.
+  *Undergraduate Thesis*  
+  - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets.
 
 2. **Seismic Risk and Resilience Analysis of Chittagong**  
   Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat
