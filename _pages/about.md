@@ -40,7 +40,7 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 # 🔥 News
 
-- 📢 2025.08 – Submitted abstract on Foundation Settlement Prediction with TabPFN to ICCESD 2026, KUET  
+- 📢 2025.09 – Abstract accepted on Foundation Settlement Prediction with TabPFN at ICCESD 2026, KUET  
 - 📢 2025.07 – Submitted full paper on DT-Hybrid based UCS prediction to ICCEI 2025, RUET  
 - 📢 2025.07 – Finished writing undergraduate thesis paper on transfer learning application in geotechnical engineering  
 - 📚 2025.05 – Started working on seismic vulnerability study of Chittagong  
