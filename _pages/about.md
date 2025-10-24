@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a civil engineering graduate from Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh.
+I am Raied Ahmed Nishat, a Civil and Environmental Engineering graduate from Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh.
 
 My academic and research work has focused on areas like machine learning applications in geotechnical engineering, seismic risk assessment, and soil stabilization. I’ve been involved in several research projects, which have led to conference papers and ongoing journal work. 
 I’m comfortable working with tools like Python, ArcGIS, AutoCAD, and other civil engineering and analysis software. I enjoy writing, organizing complex information clearly, and supporting collaborative projects — whether in research or team settings.
@@ -40,22 +40,23 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 # 🔥 News
 
+- 🎉 2025.10 – Article on TL for soil strength prediction was accepted for peer review.
+  🎉 2025.07 – Full paper on DT-Hybrid based UCS prediction got accepted for publication to ICCEI 2025, RUET  
 - 📢 2025.09 – Abstract accepted on Foundation Settlement Prediction with TabPFN at ICCESD 2026, KUET  
-- 📢 2025.07 – Submitted full paper on DT-Hybrid based UCS prediction to ICCEI 2025, RUET  
 - 📢 2025.07 – Finished writing undergraduate thesis paper on transfer learning application in geotechnical engineering  
 - 📚 2025.05 – Started working on seismic vulnerability study of Chittagong  
 - 🎉 2025.04 – Published an inauguration Video for ICERIE 2025, SUST [YouTube Link](https://youtu.be/jUUbEcVFshs?si=Eko4HVqP4Z-UD90E)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GSF 2025</div><img src='images/paper-tluss.png' alt="TL for USS Prediction" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GG 2025</div><img src='images/paper-tluss.png' alt="TL for USS Prediction" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Instance-Based Transfer Learning for Cross-Regional Prediction of Undrained Shear Strength of Soils](#)  
 
 **Raied Ahmed Nishat**, Fahmida Rahman, Nur Md. Robiul Hoque, Dr. Shriful Islam  
 
-*Geoscience Frontiers, 2025 (Submitted)*  
+*Geosystems and Geoenvironment (Elsevier), 2025 (Under Review)*  
 
 - Applies instance based transfer learning techniques to to predict Undrained Shear Strength using cross-regional datasets.
 </div>
@@ -103,7 +104,7 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 [Hydroclimatic Trend Analysis and Machine Learning-Based Water Level Prediction for the Ganges (Padma) River Basin](#)  
 Mahfujur Rahman Joy, **Raied Ahmed Nishat**  
-*Under Review at Hydrology and Earth System Sciences (HESS)*  
+*Submitted to Water Resources Management*  
 - Trend analysis of rainfall, discharge and temperature with machine learning forecasting models for water level prediction in the Ganges basin.
 
 </div>
@@ -122,7 +123,7 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 [Prediction of Soil Unconfined Compressive Strength with Decision Tree-Based Hybrid Machine Learning Model](#)  
 **Raied Ahmed Nishat**, Fahmida Rahman, Nur Md. Robiul Hoque, Md. Nazmus Islam Rafi, Dr. Shriful Islam  
-*Accepted at ICCEI 2025 – RUET*  
+*Accepted at International Conference on Civil Engineering Research & Innovations (ICCEI) 2025 – RUET*  
 - Proposes a hybrid model combining Decision Trees with metaheuristic optimization to predict UCS of soils, benchmarked against traditional regressors.
 
 </div>
@@ -139,7 +140,7 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 [A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction](#)  
 Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni 
-*Submitted to ICCESD 2026 – KUET*  
+*Accepted at 8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026) – KUET*  
 - Introduced TabPFN to the field of geotechnical engineering. Shallow foundation settlement prediction performance using TabPFN achieved higher predictive performance when compared to baseline models in literature.
 
 </div>
@@ -149,7 +150,8 @@ Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni
 1. **A Transfer Learning Approach for Soil Strength Prediction**  
   Raied Ahmed Nishat, Fahmida Rahman  
   *Supervisors: Dr. Shriful Islam, Nur Md. Robiul Hoque*  
-  *Undergraduate Thesis*  
+  *Undergraduate Thesis*
+  - Submitted manuscript based on this work is currently under review at Geosystems and Geoenvironemnt.
   - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets.
 
 2. **Seismic Risk and Resilience Analysis of Chittagong**  
@@ -160,12 +162,14 @@ Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni
 3. **Kaolin Clay Stabilization using Lime and Alkali-Activated Slag**  
   Undergraduate Thesis by Arnob Sutradhar
   *Supervisor: Dr. Shriful Islam*  
+  *Manuscript in preparation*  
   - Explores the chemical stabilization of kaolin using lime and NaOH-activated steel slag.  
   - Contributions: Planning, analytical support, result documentation, and manuscript structuring.
 
 4. **Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber**  
   Undergraduate Thesis by Mohsina Faiza Naba  
   *Supervisor: Dr. Shriful Islam*  
+  - Laboratory work nearning completion.
   - Investigates mechanical enhancement of Sunamganj clay through combined stabilization using lime, fly ash, and polyester fiber.  
   - Contributions: Research planning, data interpretation, documentation, and manuscript review.
 
@@ -176,9 +180,9 @@ Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni
 - *2017* – Comilla Board Merit Scholarship, Secondary Education  
 
 # 📖 Education
-- *2025*: B.Sc., Civil and Environmental Engineering, SUST  
-- *2019*: HSC (Science), Al Amin Academy, Chandpur  
-- *2017*: SSC (Science), Hasan Ali Govt. High School, Chandpur 
+- *2025*: B.Sc. (Engg.) in Civil and Environmental Engineering, SUST (CGPA 3.64/4, Top 5)  
+- *2019*: HSC (Science), Al Amin Academy, Chandpur  (GPA 5.5)
+- *2017*: SSC (Science), Hasan Ali Govt. High School, Chandpur (GPA 5/5) 
 
 # 💻 Internships
 - *Apr 2025*, CodeAlpha  
