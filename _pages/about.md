@@ -99,7 +99,7 @@ Shriful Islam, **Raied Ahmed Nishat**, Arnob Sutradhar, Nur Md. Robiul Hoque, Md
 
 [Machine Learning in Soil Strength Prediction: A Review](#)  
 **Raied Ahmed Nishat**, Fahmida Rahman  
-*Under Review at Discover Civil Engineering (Springer)*  
+*Submitted to Discover Civil Engineering (Springer)*  
 - A critical review exploring classical and modern machine learning approaches for predicting strength parameters of soils, highlighting trends, challenges and future directions.
 
 </div>
@@ -116,7 +116,7 @@ Shriful Islam, **Raied Ahmed Nishat**, Arnob Sutradhar, Nur Md. Robiul Hoque, Md
 
 [Hydroclimatic Trend Analysis and Machine Learning-Based Water Level Prediction for the Ganges (Padma) River Basin](#)  
 Mahfujur Rahman Joy, **Raied Ahmed Nishat**  
-*Submitted to Water Resources Management*  
+*Submitted to River (Wiley)*  
 - Trend analysis of rainfall, discharge and temperature with machine learning forecasting models for water level prediction in the Ganges basin.
 
 </div>
