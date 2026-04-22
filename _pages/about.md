@@ -21,7 +21,7 @@ I am **Raied Ahmed Nishat** — a Civil & Environmental Engineering graduate (SU
 
 My work focuses on applying transfer learning, and hybrid ML models to soil strength prediction, foundation settlement. I also have experience in seismic risk assessment research. My undergraduate thesis, *A Transfer Learning Approach for Soil Strength Prediction* introduced instance-based transfer learning to cross-regional geotechnical datasets. I am actively seeking a **PhD position in ML / Computational Geomechanics** for Spring 2027/Fall 2027.
 
-
+I am open to research collaborations. Feel free to reach out!
 
 Thanks for dropping by!
 
