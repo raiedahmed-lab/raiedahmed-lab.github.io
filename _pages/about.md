@@ -164,7 +164,7 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction](researchgate.net/publication/401704041_A_Probabilistic_Transformer-Based_Machine_Learning_Model_for_The_Prediction_of_Settlement_for_Shallow_Foundation)  
+[A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction](https://www.researchgate.net/publication/401704041_A_Probabilistic_Transformer-Based_Machine_Learning_Model_for_The_Prediction_of_Settlement_for_Shallow_Foundation)  
 **Raied Ahmed Nishat**, Abdun Nur Tusar, Dr. Shriful Islam and Moriam Akter Monni 
 *8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026) – KUET*  
 - Introduced TabPFN to the field of geotechnical engineering. Shallow foundation settlement prediction performance using TabPFN achieved higher predictive performance when compared to baseline models in literature.
