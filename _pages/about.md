@@ -62,14 +62,27 @@ I am passionate about bridging classical engineering problems with data-driven a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GEGE 2026</div><img src='images/paper-kaolin.jpg' alt="Kaolin stabilization with lime and activated slag" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJSE 2026</div><img src='paper-embankment.png' alt="Kaolin stabilization with lime and activated slag" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Strength and mechanical behavior of fly ash and lime stabilized embankment soil reinforced with polyester fiber](#)  
+
+Shriful Islam, Ananya Soheli Chowdhury, **Raied Ahmed Nishat**, Mohsina Faiza Naba, Md. Nazmul Islam Rafi
+
+*Arabian Journal of Science and Engineering (Springer), 2026 (Under Review)*  
+
+- Experimental study on performance improvement of expansive Sunamganj haor embankment soil with fly ash, lime and polyester fiber reinforcement.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJGG 2026</div><img src='images/paper-kaolin.jpg' alt="Kaolin stabilization with lime and activated slag" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effect of lime and alkali-activated LRF slag on geotechnical properties and microstructural behavior of kaolin clay](#)  
 
 Shriful Islam, **Raied Ahmed Nishat**, Arnob Sutradhar, Nur Md. Robiul Hoque, Md. Nazmul Islam Rafi, Md. Sohel Rana
 
-*Geotechnical and Geological Engineering (Springer), 2026 (Under Review)*  
+*International Journal of Geosynthetics and Ground Engineering (Springer), 2026 (Under Review)*  
 
 - Explores the chemical stabilization of kaolin using lime and NaOH-activated steel slag.
 </div>
@@ -151,9 +164,9 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction](#)  
-Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni 
-*Accepted at 8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026) – KUET*  
+[A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction](researchgate.net/publication/401704041_A_Probabilistic_Transformer-Based_Machine_Learning_Model_for_The_Prediction_of_Settlement_for_Shallow_Foundation)  
+**Raied Ahmed Nishat**, Abdun Nur Tusar, Dr. Shriful Islam and Moriam Akter Monni 
+*8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026) – KUET*  
 - Introduced TabPFN to the field of geotechnical engineering. Shallow foundation settlement prediction performance using TabPFN achieved higher predictive performance when compared to baseline models in literature.
 
 </div>
@@ -174,11 +187,10 @@ Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni
   *Manuscript in preparation*  
   - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
 
-2. **Mechanical Behavior of Lime and Fly Ash Stabilized Embankment Soil Reinforced with Polyester Fiber**  
-  Undergraduate Thesis by Mohsina Faiza Naba  
-  *Supervisor: Dr. Shriful Islam*  
-  - Laboratory work nearning completion.
-  - Investigates mechanical enhancement of Sunamganj clay through combined stabilization using lime, fly ash, and polyester fiber.  
+2. **Sustainable Stabilization of Clay Soil Using Rice Husk Ash, Induction Furnace Slag, and Lime**  
+  *Advisor: Dr. Shriful Islam*  
+  - Manuscript writing in progress.
+  - Investigates mechanical enhancement of clay soils through combined stabilization Rice husk ash, Induction furnace slag and Lime.  
   - Contributions: Research planning, data interpretation, documentation, and manuscript review.
 
 3. **Alkali activated slag for collapsible soil stabilization: A case study in Sylhet, Bangladesh**
@@ -198,14 +210,19 @@ Abdun Nur Tusar, *Raied Ahmed Nishat**, Dr. Shriful Islam, Moriam Akter Monni
 
 # 💼 Professional Experience
 
-**Adjunct Lecturer** · Department of Civil Engineering, Leading University, Sylhet &nbsp; *(Jan 2026 – Present)*  
+**Adjunct Lecturer**
+Department of Civil Engineering, Leading University, Sylhet &nbsp; *(Jan 2026 – Present)*  
 Teaching regular courses and mentoring undergraduate students in conducting research, from literature review and experimental planning to data analysis and scientific writing.
 
-**Junior Project Engineer** · CRTC, SUST &nbsp; *(Dec 2025 – Jan 2026)*  
+**Junior Project Engineer**
+CRTC, SUST &nbsp; *(Dec 2025 – Jan 2026)*  
 Supervised SPT field operations at Sylhet Gas Field; laboratory soil classification, strength testing, and geotechnical report preparation.
 
-**Research Assistant** · Department of CEE, SUST &nbsp; *(Apr 2024 – Present)*  
-Advisor: Prof. Dr. Shriful Islam · Experimental and computational ML-based geotechnical modeling; data analysis and manuscript preparation.
+**Research Assistant**
+Department of CEE, SUST &nbsp; *(Apr 2024 – Present)*  
+Advisor: Prof. Dr. Shriful Islam 
+Experimental and computational ML-based geotechnical modeling; data analysis and manuscript preparation.
+
 
 ---
 
