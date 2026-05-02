@@ -175,15 +175,14 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 - **A Transfer Learning Approach for Soil Strength Prediction**  
   Raied Ahmed Nishat, Fahmida Rahman  
-  *Supervisors: Dr. Shriful Islam, Nur Md. Robiul Hoque*  
-  *Undergraduate Thesis*
-  - Submitted manuscript based on this work is currently under review at Geosystems and Geoenvironemnt.
+  *Advisor: [Dr. Shriful Islam](https://www.sust.edu/departments/cee/faculty/sharif-cee@sust.edu), [Nur Md. Robiul Hoque](https://www.sust.edu/departments/cee/faculty/hoque-cee@sust.edu)*  
+  - Submitted manuscript based on this work is currently published at Geosystems and Geoenvironemnt.
   - Applies domain adaptation to predict Undrained Shear Strength using cross-regional datasets.
 
 # 🔬 Ongoing Research
 
 1. **Seismic Risk and Resilience Analysis of Chittagong**  
-  Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat
+[Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/), Raied Ahmed Nishat, [Abul Hasnat](https://scholar.google.com/citations?user=iOVyW58AAAAJ&hl=en)
   *Manuscript in preparation*  
   - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
 
@@ -220,7 +219,7 @@ Supervised SPT field operations at Sylhet Gas Field; laboratory soil classificat
 
 **Research Assistant**
 Department of CEE, SUST &nbsp; *(Apr 2024 – Present)*  
-Advisor: Prof. Dr. Shriful Islam 
+Advisor: [Prof. Dr. Shriful Islam](https://www.sust.edu/departments/cee/faculty/sharif-cee@sust.edu) 
 Experimental and computational ML-based geotechnical modeling; data analysis and manuscript preparation.
 
 
