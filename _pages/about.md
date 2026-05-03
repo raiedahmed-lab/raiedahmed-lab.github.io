@@ -182,7 +182,7 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 # 🔬 Ongoing Research
 
 1. **Seismic Risk and Resilience Analysis of Chittagong**  
-[Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/), Raied Ahmed Nishat, [Abul Hasnat](https://scholar.google.com/citations?user=iOVyW58AAAAJ&hl=en)
+[Dr. Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/), Raied Ahmed Nishat, [Abul Hasnat](https://scholar.google.com/citations?user=iOVyW58AAAAJ&hl=en)
   *Manuscript in preparation*  
   - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
 
