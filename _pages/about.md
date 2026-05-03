@@ -210,15 +210,15 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 # 💼 Professional Experience
 
 **Adjunct Lecturer**
-Department of Civil Engineering, Leading University, Sylhet &nbsp; *(Jan 2026 – Present)*  
+- Department of Civil Engineering, Leading University, Sylhet &nbsp; *(Jan 2026 – Present)*  
 Teaching regular courses and mentoring undergraduate students in conducting research, from literature review and experimental planning to data analysis and scientific writing.
 
 **Junior Project Engineer**
-CRTC, SUST &nbsp; *(Dec 2025 – Jan 2026)*  
+- CRTC, SUST &nbsp; *(Dec 2025 – Jan 2026)*  
 Supervised SPT field operations at Sylhet Gas Field; laboratory soil classification, strength testing, and geotechnical report preparation.
 
 **Research Assistant**
-Department of CEE, SUST &nbsp; *(Apr 2024 – Present)*  
+- Department of CEE, SUST &nbsp; *(Apr 2024 – Present)*  
 Advisor: [Prof. Dr. Shriful Islam](https://www.sust.edu/departments/cee/faculty/sharif-cee@sust.edu) 
 Experimental and computational ML-based geotechnical modeling; data analysis and manuscript preparation.
 
