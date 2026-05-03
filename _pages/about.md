@@ -62,7 +62,7 @@ I am passionate about bridging classical engineering problems with data-driven a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJSE 2026</div><img src='paper-embankment.png' alt="Soil stabilization with fly ash, lime and polyester fiber" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJSE 2026</div><img src='images/paper-embankment.jpg' alt="Soil stabilization with fly ash, lime and polyester fiber" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Strength and mechanical behavior of fly ash and lime stabilized embankment soil reinforced with polyester fiber](#)  
