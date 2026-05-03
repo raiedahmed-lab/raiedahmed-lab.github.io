@@ -13,7 +13,7 @@ main:
     url: "/#-publications"
     
   - title: "Things I Make"
-    url: /hobbies/
+    url: /_pages/hobbies.md
     
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
