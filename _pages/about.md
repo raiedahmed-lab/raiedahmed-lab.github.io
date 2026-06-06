@@ -185,7 +185,7 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
   *Manuscript in preparation*  
   - Using scenario seismic hazards, this study evaluates seismic risk of buildings and post-earthquake recovery for Chittagong city.
   - This study utilizes the HAZUS framework and incorporates uncertainty considerations in damage, retrofitting, and recovery simulations.
-  - 
+    
 2. **Performance Evaluation of Water Distribution Systems**  
 [Dr. Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/), Raied Ahmed Nishat
   *Analysis in progress*
