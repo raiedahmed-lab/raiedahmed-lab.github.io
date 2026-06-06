@@ -30,8 +30,7 @@ Thanks for dropping by!
 - ML & Transfer Learning for Geotechnics
 - Probabilistic & Transformer-Based Models  
 - Soil Strength & Stabilization
-- Seismic Risk & Resilience Assessment  
-- Hydroclimatic Trend Analysis  
+- Seismic Risk & Resilience Assessment 
 
 I am passionate about bridging classical engineering problems with data-driven approaches.
 
@@ -62,14 +61,14 @@ I am passionate about bridging classical engineering problems with data-driven a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJSE 2026</div><img src='images/paper-embankment.jpg' alt="Soil stabilization with fly ash, lime and polyester fiber" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGJ 2026</div><img src='images/paper-embankment.jpg' alt="Soil stabilization with fly ash, lime and polyester fiber" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Strength and mechanical behavior of fly ash and lime stabilized embankment soil reinforced with polyester fiber](#)  
 
 Shriful Islam, Ananya Soheli Chowdhury, **Raied Ahmed Nishat**, Mohsina Faiza Naba, Md. Nazmul Islam Rafi
 
-*Arabian Journal of Science and Engineering (Springer), 2026 (Under Review)*  
+*Indian Geotechnical Journal (Springer), 2026 (Under Review)*  
 
 - Experimental study on performance improvement of expansive Sunamganj haor embankment soil with fly ash, lime and polyester fiber reinforcement.
 </div>
@@ -181,21 +180,38 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 # 🔬 Ongoing Research
 
-1. **Seismic Risk and Resilience Analysis of Chittagong**  
+1. **Community-Level Scenario Seismic Risk and Resilience Analysis of Chittagong**  
 [Dr. Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/), Raied Ahmed Nishat, [Abul Hasnat](https://scholar.google.com/citations?user=iOVyW58AAAAJ&hl=en)
   *Manuscript in preparation*  
-  - Evaluates seismic vulnerability and resilience using spatial analysis and structural fragility modeling.
+  - Using scenario seismic hazards, this study evaluates seismic risk of buildings and post-earthquake recovery for Chittagong city.
+  - This study utilizes the HAZUS framework and incorporates uncertainty considerations in damage, retrofitting, and recovery simulations.
+  - 
+2. **Performance Evaluation of Water Distribution Systems**  
+[Dr. Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/), Raied Ahmed Nishat
+  *Analysis in progress*
+   - This study evaluates various performance metrics, including topographic, hydraulic, water security and economic metrics for water networks.
 
-2. **Sustainable Stabilization of Clay Soil Using Rice Husk Ash, Induction Furnace Slag, and Lime**  
+3. **Sustainable Stabilization of Clay Soil Using Rice Husk Ash, Induction Furnace Slag, and Lime**  
   *Advisor: Dr. Shriful Islam*  
   - Manuscript writing in progress.
   - Investigates mechanical enhancement of clay soils through combined stabilization Rice husk ash, Induction furnace slag and Lime.  
   - Contributions: Research planning, data interpretation, documentation, and manuscript review.
 
-3. **Alkali activated slag for collapsible soil stabilization: A case study in Sylhet, Bangladesh**
-   *Supervisor: Dr. Shriful Islam*  
+4. **Alkali activated slag for collapsible soil stabilization: A case study in Sylhet, Bangladesh**
+   *Advisor: Dr. Shriful Islam*  
   - Investigates the practical improvement of collapsible soils found in sylhet with the use of industrial by-product LRF and its activated form. 
   - Contributions: Research planning, experimentation, data interpretation, documentation, and manuscript preparation.
+    
+5. **Uncertainty Aware Bayesian Physics Informed Neural Network for Probabilistic Slope Stability Classification**
+    *Co-Authors: [Nabid Hasnat](https://scholar.google.com/citations?user=iDVZVjgAAAAJ&hl=en)* (Leading University, Sylhet)
+    - Incorporating monotonic physics constraints in Bayesian Neural Networks for developing a physically consistent, uncertainty-aware machine learning framework for slope stability classification.
+    - This study aims to provide a trustworthy, probabilistic risk-assessment tool that quantifies predictive uncertainty while strictly following soil mechanics.
+      
+6.	**Machine Learning-Based Prediction of Static Pile Load Capacity and Development of Empirical Equations for BNBC 2020 Refinements**
+    *Co-Authors: [Shakib Bhuiyan](https://scholar.google.com/citations?user=UoRJDz0AAAAJ&hl=en)* (Leading University, Sylhet)
+    - Developing an interpretable machine learning based framework for pile load capacity prediction and recommendation to BNBC 2020 for empirical equation refinement. 
+
+
 
 # 📖 Education
 
