@@ -203,11 +203,11 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
   - Contributions: Research planning, experimentation, data interpretation, documentation, and manuscript preparation.
     
 5. **Uncertainty Aware Bayesian Physics Informed Neural Network for Probabilistic Slope Stability Classification**
-    *Co-Authors: [Nabid Hasnat](https://scholar.google.com/citations?user=iDVZVjgAAAAJ&hl=en)* (Leading University, Sylhet)
+     *Co-Authors: [Nabid Hasnat](https://scholar.google.com/citations?user=iDVZVjgAAAAJ&hl=en)* (Leading University, Sylhet)
     - Incorporating monotonic physics constraints in Bayesian Neural Networks for developing a physically consistent, uncertainty-aware machine learning framework for slope stability classification.
     - This study aims to provide a trustworthy, probabilistic risk-assessment tool that quantifies predictive uncertainty while strictly following soil mechanics.
       
-6.	**Machine Learning-Based Prediction of Static Pile Load Capacity and Development of Empirical Equations for BNBC 2020 Refinements**
+7.	**Machine Learning-Based Prediction of Static Pile Load Capacity and Development of Empirical Equations for BNBC 2020 Refinements**
     *Co-Authors: [Shakib Bhuiyan](https://scholar.google.com/citations?user=UoRJDz0AAAAJ&hl=en)* (Leading University, Sylhet)
     - Developing an interpretable machine learning based framework for pile load capacity prediction and recommendation to BNBC 2020 for empirical equation refinement. 
 
