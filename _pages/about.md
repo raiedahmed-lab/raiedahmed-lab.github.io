@@ -193,23 +193,23 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 3. **Sustainable Stabilization of Clay Soil Using Rice Husk Ash, Induction Furnace Slag, and Lime**  
   *Advisor: Dr. Shriful Islam*  
-  - Manuscript writing in progress.
+  *Manuscript in preparation* 
   - Investigates mechanical enhancement of clay soils through combined stabilization Rice husk ash, Induction furnace slag and Lime.  
   - Contributions: Research planning, data interpretation, documentation, and manuscript review.
 
 4. **Alkali activated slag for collapsible soil stabilization: A case study in Sylhet, Bangladesh**
-   *Advisor: Dr. Shriful Islam*  
+  *Advisor: Dr. Shriful Islam*  
   - Investigates the practical improvement of collapsible soils found in sylhet with the use of industrial by-product LRF and its activated form. 
   - Contributions: Research planning, experimentation, data interpretation, documentation, and manuscript preparation.
     
 5. **Uncertainty Aware Bayesian Physics Informed Neural Network for Probabilistic Slope Stability Classification**
-   *Co-Authors: [Nabid Hasnat](https://scholar.google.com/citations?user=iDVZVjgAAAAJ&hl=en)* (Leading University, Sylhet)*  
-    - Incorporating monotonic physics constraints in Bayesian Neural Networks for developing a physically consistent, uncertainty-aware machine learning framework for slope stability classification.
-    - This study aims to provide a trustworthy, probabilistic risk-assessment tool that quantifies predictive uncertainty while strictly following soil mechanics.
+  *Co-Authors: [Nabid Hasnat](https://scholar.google.com/citations?user=iDVZVjgAAAAJ&hl=en)*  (Leading University, Sylhet)
+  - Incorporating monotonic physics constraints in Bayesian Neural Networks for developing a physically consistent, uncertainty-aware machine learning framework for slope stability classification.
+  - This study aims to provide a trustworthy, probabilistic risk-assessment tool that quantifies predictive uncertainty while strictly following soil mechanics.
       
 6.	**Machine Learning-Based Prediction of Static Pile Load Capacity and Development of Empirical Equations for BNBC 2020 Refinements**
-   *Co-Authors: [Shakib Bhuiyan](https://scholar.google.com/citations?user=UoRJDz0AAAAJ&hl=en)* (Leading University, Sylhet)*  
-    - Developing an interpretable machine learning based framework for pile load capacity prediction and recommendation to BNBC 2020 for empirical equation refinement. 
+  *Co-Authors: [Shakib Bhuiyan](https://scholar.google.com/citations?user=UoRJDz0AAAAJ&hl=en)*  (Leading University, Sylhet)
+  - Developing an interpretable machine learning based framework for pile load capacity prediction and recommendation to BNBC 2020 for empirical equation refinement. 
 
 
 
