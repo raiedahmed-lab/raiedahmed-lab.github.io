@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Point all crawlers to the sitemap
+Sitemap: https://raiedahmed-lab.github.io/sitemap.xml
