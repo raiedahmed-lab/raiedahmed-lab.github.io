@@ -170,6 +170,12 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 </div>
 </div>
+**Explainable Machine Learning and Minimum Viable Site Investigation for Reliable Axial Pile Capacity Prediction**  
+  Raied Ahmed Nishat, Shakib Bhuiyan, Shriful Islam,  Maliha Anzuman
+  Abstract Accepted at the International Conference on Civil Engineering (ICCE 2026), BUET.
+
+
+  
 # 🔬 Undergraduate Thesis
 
 - **A Transfer Learning Approach for Soil Strength Prediction**  
