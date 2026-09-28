@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Raied Ahmed Nishat** — a Civil & Environmental Engineering graduate (SUST, Bangladesh) and currently an **Adjunct Lecturer** at Leading University, Sylhet. I am also a **Research Assistant** at SUST, working at the intersection of **machine learning and geotechnical engineering**.
+Hello! I am **Raied Ahmed Nishat**. I am a Graduate Research Assistant at Georgia Southern University. 
 
-My work focuses on applying transfer learning, and hybrid ML models to soil strength prediction, foundation settlement. I also have experience in seismic risk assessment research. My undergraduate thesis, *A Transfer Learning Approach for Soil Strength Prediction* introduced instance-based transfer learning to cross-regional geotechnical datasets. I am actively seeking a **PhD position in ML / Computational Geomechanics** for Spring 2027/Fall 2027.
+I am currently working on sewer system defect detection using computer vision for automated defect classification for integration into asset management. My research also focuses on affordability assessment of water infrastructure in Georgia. 
 
 I am open to research collaborations. Feel free to reach out!
 
@@ -27,9 +27,9 @@ Thanks for dropping by!
 
 # 🔬 Research Interests
 
-- ML & Transfer Learning for Geotechnics
+- Machine Learning applications
 - Probabilistic & Transformer-Based Models  
-- Soil Strength & Stabilization
+- Affordability Assessment
 - Seismic Risk & Resilience Assessment 
 
 I am passionate about bridging classical engineering problems with data-driven approaches.
@@ -77,11 +77,11 @@ Shriful Islam, Ananya Soheli Chowdhury, **Raied Ahmed Nishat**, Mohsina Faiza Na
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJGG 2026</div><img src='images/paper-kaolin.jpg' alt="Kaolin stabilization with lime and activated slag" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Effect of lime and alkali-activated LRF slag on geotechnical properties and microstructural behavior of kaolin clay](#)  
+[Effect of lime and alkali-activated LRF slag on geotechnical properties and microstructural behavior of kaolin clay](https://doi.org/10.1007/s40891-026-00738-y)  
 
 Shriful Islam, **Raied Ahmed Nishat**, Arnob Sutradhar, Nur Md. Robiul Hoque, Md. Nazmul Islam Rafi, Md. Sohel Rana
 
-*International Journal of Geosynthetics and Ground Engineering (Springer), 2026 (Under Review)*  
+*International Journal of Geosynthetics and Ground Engineering (Springer), 2026*  
 
 - Explores the chemical stabilization of kaolin using lime and NaOH-activated steel slag.
 </div>
