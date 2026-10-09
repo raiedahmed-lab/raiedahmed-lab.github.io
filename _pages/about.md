@@ -36,12 +36,10 @@ I am passionate about bridging classical engineering problems with data-driven a
 
 # 🔥 News
 
+- 📢 2026.08 – Started school at Georgia Southern University
+- 🎉 2026.08 – Kaolin stabilization paper published at Int. Journal of Geosynthetics and Ground Engineering (Springer).
 - 🎉 2026.03 – Transfer learning paper (USS prediction) published at *Geosystems and Geoenvironment (Elsevier)*
-- 🎉 2026.02 - Joined as **Adjunct Lecturer**, Dept. of Civil Engineering, Leading University, Sylhet, Bangladesh
-- 📢 2026.02 – Abstract accepted on Foundation Settlement Prediction with TabPFN at ICCESD 2026, KUET
-- 🎉 2026.01 – Article on Kaolin soil stabilization was accepted for peer review.
-- 🎉 2025.10 – Article on TL for soil strength prediction was accepted for peer review.
-- 🎉 2025.04 – Published an inauguration Video for ICERIE 2025, SUST [YouTube Link](https://youtu.be/jUUbEcVFshs?si=Eko4HVqP4Z-UD90E)
+- 🎉 2026.02 - Joined as Adjunct Lecturer, Dept. of Civil Engineering, Leading University, Sylhet, Bangladesh
 
 # 📝 Publications 
 
@@ -98,23 +96,6 @@ Shriful Islam, **Raied Ahmed Nishat**, Arnob Sutradhar, Nur Md. Robiul Hoque, Md
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-9zK80AAAAJ&citation_for_view=f-9zK80AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='f-9zK80AAAAJ:u-x6o8ySG0sC'></span></strong>
 - A comprehensive hydroclimatic trend analysis using visual and statistical tools to assess seasonal discharge variability under changing climate conditions.
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">DCE (Under Review)</div>
-      <img src='images/paper-soil-review.PNG' alt="Soil ML Review" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[Machine Learning in Soil Strength Prediction: A Review](#)  
-**Raied Ahmed Nishat**, Fahmida Rahman  
-*Submitted to Discover Civil Engineering (Springer)*  
-- Critical survey of classical and modern ML approaches (ANN, SVM, tree ensembles, deep learning) for predicting soil strength parameters.
-- Identifies domain adaptation and physics-informed learning as key open challenges.
 </div>
 </div>
 
@@ -197,7 +178,11 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
   *Analysis in progress*
    - This study evaluates various performance metrics, including topographic, hydraulic, water security and economic metrics for water networks.
 
-3. **Sustainable Stabilization of Clay Soil Using Rice Husk Ash, Induction Furnace Slag, and Lime**  
+3. **Machine Learning in Soil Strength Prediction: A Systematic Review**
+Co-Authors: [Fahmida Rahman](https://scholar.google.com/citations?user=dEdDkr4AAAAJ&hl=en&oi=sra) and [Dr. Shriful Islam](https://www.sust.edu/departments/cee/faculty/sharif-cee@sust.edu), (SUST)
+   - A systematic review of machine learning application in soil strength parameter prediction. Following PRISMA guided methodology for systematic reviews, this study compiles a comprehensive review of current literature trends, gaps, providing future directions for this field. 
+
+4. **Sustainable Stabilization of Clay Soil Using Rice Husk Ash, Induction Furnace Slag, and Lime**  
   *Advisor: Dr. Shriful Islam*  
   *Manuscript in preparation* 
   - Investigates mechanical enhancement of clay soils through combined stabilization Rice husk ash, Induction furnace slag and Lime.  
@@ -223,6 +208,7 @@ Mahfujur Rahman Joy, **Raied Ahmed Nishat**
 
 | Degree | Institution | Year | Result |
 |--------|-------------|------|--------|
+| **MS,, Civil Engineering** | Georgia Southern University | 2026 | CGPA --/4.00 |
 | **B.Sc. (Engg.), Civil & Environmental Engineering** | Shahjalal University of Science & Technology (SUST) | 2025 | CGPA 3.64/4.00 |
 | HSC (Science) | Al Amin Academy, Chandpur | 2019 | GPA 5.00/5.00 |
 | SSC (Science) | Hasan Ali Govt. High School, Chandpur | 2017 | GPA 5.00/5.00 |
