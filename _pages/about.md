@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Raied Ahmed Nishat: graduate researcher working on data-driven infrastructure resilience and affordability at Georgia Southern University."
+excerpt: "Raied Ahmed Nishat: graduate student working on data-driven infrastructure resilience and affordability at Georgia Southern University"
 author_profile: true
 redirect_from:
   - /about/
