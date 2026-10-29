@@ -9,19 +9,17 @@ redirect_from:
   - /about.html
 ---
 
-I am **Raied Ahmed Nishat**, an M.S. student in Civil Engineering and Graduate Research Assistant at Georgia Southern University. My path into research began with civil and environmental engineering at Shahjalal University of Science and Technology (SUST), Bangladesh, where I completed my bachelor's degree in September 2025.
+I am **Raied Ahmed Nishat**. I am currently an M.S. student in Civil Engineering and Graduate Research Assistant at Georgia Southern University. My path into research began at the Dept. of Civil and Environmental Engineering at Shahjalal University of Science and Technology (SUST), Bangladesh, where I completed my bachelor's degree in September 2025.
 
-My undergraduate thesis examined transfer learning for soil-strength prediction. That experience connects with my current interest in a broader problem: using limited engineering observations responsibly, and understanding what a model can—and cannot—support.
+My undergraduate thesis was titled, "A Transfer Learning Approach for Soil Strength Prediction".
 
 ## Engineering and teaching experience
 
-Before beginning graduate study, I taught as an adjunct lecturer at Leading University from January to August 2026. My teaching included structural mechanics and laboratory sessions in open-channel flow and environmental engineering. I also worked as a Junior Project Engineer at CRTC–SUST, supporting SPT field operations, soil testing, and technical reporting.
-
-These experiences give context to the computational side of my work: measurements, physical behavior, and clear explanations matter alongside prediction accuracy.
+Before beginning my graduate study, I taught as an Adjunct Lecturer at Leading University, Sylhet, from January to August 2026. My teachings included Structural Analysis and laboratory sessions in Open Channel Flow and Environmental Engineering. I also worked as a Junior Project Engineer at Center for Research Testing and Consultancy at SUST where I supported in SPT field operations, soil testing, and technical reporting.
 
 ## Beyond research
 
-I enjoy graphic design, video editing, and playing the guitar and flute. At SUST, I served as General Secretary of AAJ Muktomancho during 2024–2025. My [YouTube channel](https://www.youtube.com/@raiedahmednishat8883) includes creative work beyond research.
+I enjoy photography, video editing, graphic design, and playing the guitar and flute. At SUST, I served as General Secretary of AAJ Muktomancho during 2024–2025. My [YouTube channel](https://www.youtube.com/@raiedahmednishat8883) includes some creative work beyond research.
 
 ## Contact and profiles
 
@@ -33,4 +31,4 @@ I enjoy graphic design, video editing, and playing the guitar and flute. At SUST
 - [ResearchGate](https://www.researchgate.net/profile/Raied-Nishat)
 - [Facebook](https://www.facebook.com/raiedahmed.nishat.52)
 
-[Download my CV (PDF)]({{ '/assets/resume.pdf' | relative_url }}) for the full academic and professional record.
+[Download my CV (PDF)]({{ '/assets/resume.pdf' | relative_url }}) for the full academic and professional record. Thanks!
