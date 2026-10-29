@@ -1,6 +1,7 @@
+---
+permalink: /robots.txt
+---
 User-agent: *
-Allow: /
-Disallow: /assets/
+Disallow:
 
-# Point all crawlers to the sitemap
-Sitemap: https://raiedahmed-lab.github.io/sitemap.xml
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
