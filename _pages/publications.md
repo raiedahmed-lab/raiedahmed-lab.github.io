@@ -35,12 +35,21 @@ Shriful Islam, Raied Ahmed Nishat, Ananya Soheli Chowdhury, Syful Islam, Sathi P
 
 These entries are not yet published.
 
-- **Strength and mechanical behavior of fly ash and lime stabilized embankment soil reinforced with polyester fiber** — Shriful Islam, Ananya Soheli Chowdhury, Raied Ahmed Nishat, Mohsina Faiza Naba, Md. Nazmul Islam Rafi.
+- **Strength and mechanical behavior of fly ash and lime stabilized embankment soil reinforced with polyester fiber**
+  Shriful Islam, Ananya Soheli Chowdhury, Raied Ahmed Nishat, Mohsina Faiza Naba, Md. Nazmul Islam Rafi.
   
-- **Seasonality-aware reconstruction, trend detection and dependence analysis of discharge and water level in the Ganges–Padma River** — Mahfujur Rahman Joy, Raied Ahmed Nishat, Ahmad Hasan Nury
+- **Seasonality-aware reconstruction, trend detection and dependence analysis of discharge and water level in the Ganges–Padma River**
+  Mahfujur Rahman Joy, Raied Ahmed Nishat, Ahmad Hasan Nury
+
+- **Engineering Performance of Sustainable Ternary-Blended Soils Utilizing Lime, Rice Husk Ash, and Induction Furnace Slag**
+  Shriful Islam1, Sufal Chakraborty, Toyob Mahmud Prachi, Raied Ahmed Nishat, Md. Jahir Bin Alam, Nur Md. Robiul Hoque
 
 ## Manuscripts under preparation
 
-**Machine learning in soil strength prediction: A systematic review** - Raied Ahmed Nishat, Fahmida Rahman, Shriful Islam
+**Machine learning in soil strength prediction: A systematic review**
+Raied Ahmed Nishat, Fahmida Rahman, Shriful Islam
 
-**Community-Level Scenario Seismic Risk and Resilience Analysis of Chittagong** - Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat
+**Community-Level Scenario Seismic Risk and Resilience Analysis of Chittagong**
+Ram Krishna Mazumder, Raied Ahmed Nishat, Abul Hasnat
+
+
