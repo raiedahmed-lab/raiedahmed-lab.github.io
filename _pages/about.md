@@ -17,11 +17,11 @@ latest_posts:
 
 <span id="about-me"></span>
 <p class="research-kicker">ENGINEERING · DATA · DECISIONS</p>
-<h2 class="research-headline">Engineering decisions<br>from imperfect data.</h2>
+<!-- <h2 class="research-headline">Engineering decisions<br>from imperfect data.</h2> -->
 
-I investigate how engineering data and machine learning can support more reliable infrastructure decisions. At Georgia Southern University, I work with [Dr. Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/) on sewer condition assessment, water-network performance, and water infrastructure affordability in Georgia.
+At Georgia Southern University, I work with [Dr. Ram Krishna Mazumder](https://scholars.georgiasouthern.edu/en/persons/ram-krishna-mazumder/) on water infrastructure affordability. My other projects include sewer condition assessment, water-network performance evacuation and seismic resilience assessment. 
 
-My earlier research examined cross-regional soil-strength prediction and clay stabilization. Across these projects, I ask: **what can we learn from limited observations, and what do we need to know before using a model's predictions?**
+My earlier research falls in ML applications in Geotechnical Engineering.
 
 <p class="research-actions"><a class="btn btn-sm z-depth-0" href="{{ '/research/' | relative_url }}">Explore my research →</a> <a href="{{ '/assets/resume.pdf' | relative_url }}">Download CV (PDF)</a></p>
 
@@ -43,7 +43,7 @@ My earlier research examined cross-regional soil-strength prediction and clay st
 <span id="get-in-touch"></span>
 <section class="collaboration-note">
 <h2>Let's connect</h2>
-<p>I welcome conversations about cross-regional geotechnical prediction, infrastructure condition assessment, and water-system resilience and affordability.</p>
+<p>I am open to conversations!</p>
 <p><a href="mailto:raiedahmednishat@gmail.com">Email me</a> · <a href="{{ '/about/' | relative_url }}">More about my background</a></p>
 </section>
 
