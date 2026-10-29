@@ -17,7 +17,7 @@ For the questions, methods, and scope behind selected studies, visit [Research](
 **A Probabilistic Transformer-Based Machine Learning Model for Shallow Foundation Settlement Prediction**  
 Raied Ahmed Nishat, Abdun Nur Tusar, Shriful Islam, Moriam Akter Monni.  
 8th International Conference on Civil Engineering for Sustainable Development 2026, KUET, Bangladesh
-[ResearchGate record](https://www.researchgate.net/publication/401704041_A_Probabilistic_Transformer-Based_Machine_Learning_Model_for_The_Prediction_of_Settlement_for_Shallow_Foundation)
+[ResearchGate](https://www.researchgate.net/publication/401704041_A_Probabilistic_Transformer-Based_Machine_Learning_Model_for_The_Prediction_of_Settlement_for_Shallow_Foundation)
 
 **Prediction of Soil Unconfined Compressive Strength Using a Decision Tree-Based Hybrid Machine Learning Model**  
 Raied Ahmed Nishat, Fahmida Rahman, Nur Md. Robiul Hoque, Md. Nazmus Islam Rafi, Shriful Islam.  
