@@ -3,7 +3,7 @@ layout: page
 title: From infrastructure observations to decisions
 permalink: /research/water-infrastructure/
 description: Current graduate research on sewer condition, water-network performance, and affordability in Georgia.
-importance: 3
+importance: 4
 status: Research in progress
 period: '2026–present'
 methods: Computer vision · Network assessment · Spatial and socioeconomic analysis
