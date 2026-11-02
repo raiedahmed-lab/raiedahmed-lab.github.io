@@ -4,7 +4,7 @@ title: Mapping water affordability across Georgia
 permalink: /research/georgia-affordability/
 description: Explore ten socioeconomic indicators across 2,796 Georgia census tracts through an adaptation of GEFA’s affordability criteria.
 img: /images/georgia-affordability.svg
-importance: 3
+importance: 1
 status: Mapping project
 period: '2026'
 methods: SQL Server · QGIS · Census tract analysis
