@@ -15,7 +15,7 @@ Two neighborhoods in the same county can face very different economic pressures.
 
 ## Explore the map
 
-Hover over a tract to see its ten indicators, or click to keep its profile open. Darker green indicates greater socioeconomic disadvantage. Gray marks the 32 tracts without a final score.
+Hover over a tract to see its ten indicators, or click to keep its profile open. Colors progress from pale yellow for lower scores through orange to burgundy for higher scores. Gray marks the 32 tracts without a final score.
 
 [Open the map in its own tab]({{ '/affordability-map/' | relative_url }}){:target="_blank" rel="noopener"}
 
