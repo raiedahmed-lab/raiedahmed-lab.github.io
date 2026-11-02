@@ -4,7 +4,7 @@ title: Improving clay through material treatment
 permalink: /research/kaolin-stabilization/
 description: Connecting the strength and microstructure of kaolin treated with lime and activated steelmaking slag.
 img: /images/paper-kaolin.jpg
-importance: 2
+importance: 3
 status: Published collaboration
 period: '2026'
 methods: Soil stabilization · Strength testing · Microstructural interpretation
