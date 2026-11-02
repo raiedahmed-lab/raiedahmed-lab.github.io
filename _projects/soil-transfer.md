@@ -4,7 +4,7 @@ title: Can soil data travel across regions?
 permalink: /research/soil-transfer/
 description: Instance-based transfer learning for undrained shear-strength prediction under domain shift.
 img: /images/paper-tluss.png
-importance: 1
+importance: 2
 status: Published study
 period: '2026'
 methods: Transfer learning · Kernel ridge regression · SHAP
