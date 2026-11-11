@@ -23,6 +23,10 @@ Raied Ahmed Nishat, Abdun Nur Tusar, Shriful Islam, Moriam Akter Monni.
 Raied Ahmed Nishat, Fahmida Rahman, Nur Md. Robiul Hoque, Md. Nazmus Islam Rafi, Shriful Islam.  
 8th International Conference on Advances in Civil Engineering 2026, CUET, Bangladesh.
 
+**Strength and mechanical performance improvement of clay using induction furnace slag**
+Sufal Chakraborty, Raied Ahmed Nishat, Shriful Islam, Nur Md. Robiul Hoque, Md. Jahir Bin Alam, Md. Nazmul Islam Rafi
+8th International Conference on Advances in Civil Engineering 2026, CUET, Bangladesh.
+
 **Bayesian Neural Network for Probabilistic Slope Stability Classification**  
 Raied Ahmed Nishat, Nabid Hasnat.  
 International Conference on Civil Engineering 2026, BUET, Bangladesh. **[Accepted]**
@@ -30,6 +34,8 @@ International Conference on Civil Engineering 2026, BUET, Bangladesh. **[Accepte
 **Strength and Microstructural Enhancement of Silty Soil Treated with a Calcium-Alkaline Activation System**
 Shriful Islam, Raied Ahmed Nishat, Ananya Soheli Chowdhury, Syful Islam, Sathi Parvin.
 9th International Conference on Engineering Research, Innovation, and Education **[Accepted]**
+
+
 
 ## Manuscripts under review
 
